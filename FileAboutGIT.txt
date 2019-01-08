@@ -1,10 +1,21 @@
 - Master::Repository: a place for storing things. With Git, this means your code 
   folder.
 
+<<<<<<< HEAD
 - Bone::Head: A “pointer” to the latest code you were working on.
 
 - BThree::Commit: An action to save the current state — such that one can revisit 
   this state if needed.
 
 - bTwo::Add: An action to ask Git to track a file.
+
+- Master::Remote: A repository that isn’t local. Can be in another folder or in 
+  the cloud (for example: Github): helps other people to easily collaborate, as 
+  they don’t have to get a copy from your system — they can just get it from the
+  cloud. Also, ensures you have a backup in case you break your laptop.
+
+
+- bFour::Pull: An action to get updated code from the remote
+
+>>>>>>> Commit for bFour
 
