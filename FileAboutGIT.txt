@@ -1,0 +1,2 @@
+- 1st::Repository: a place for storing things. With Git, this means your code 
+  folder.
