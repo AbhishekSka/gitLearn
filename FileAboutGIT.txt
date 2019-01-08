@@ -1,3 +1,6 @@
 - Master::Repository: a place for storing things. With Git, this means your code 
   folder.
 - Bone::Head: A “pointer” to the latest code you were working on.
+
+- BTwo::Commit: An action to save the current state — such that one can revisit 
+  this state if needed.
