@@ -1,7 +1,6 @@
 - Master::Repository: a place for storing things. With Git, this means your code 
   folder.
 
-<<<<<<< HEAD
 - Bone::Head: A “pointer” to the latest code you were working on.
 
 - BThree::Commit: An action to save the current state — such that one can revisit 
@@ -17,5 +16,5 @@
 
 - bFour::Pull: An action to get updated code from the remote
 
->>>>>>> Commit for bFour
+
 
